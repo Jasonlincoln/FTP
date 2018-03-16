@@ -1,0 +1,15 @@
+[alex]
+password = 123
+quotation = 1048576000
+rest space = 104857600
+
+[test]
+password = 123
+quotation = 1073741824
+rest space = 1073741824
+
+[egon]
+password = 123
+quotation = 1048576000
+rest space = 1048576000
+
